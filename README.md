@@ -11,9 +11,7 @@ Este projeto faz parte dos estudos sobre os fundamentos de HTML e CSS no curso F
 
 <br>
 
-<p align="center">
-  <img alt="imagem da página para web" src="url(https://raw.githubusercontent.com/ruhancmendes/Pagina-de-receita/refs/heads/main/img/img-readme.png)" width="100%">
-</p>
+![http://url/to/img.png](https://raw.githubusercontent.com/ruhancmendes/Pagina-de-receita/refs/heads/main/img/img-readme.png)
 
 ## 🛠️ Tecnologias
 

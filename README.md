@@ -28,3 +28,31 @@ O objetivo deste projeto foi criar uma página web simples, aplicando os fundame
 - Estilizar a página utilizando CSS.
 
 
+<h1 align="center"> 🌐 Web Page </h1>
+
+<p align="center">
+This project is part of the studies on the fundamentals of HTML and CSS in the Rocketseat Full-Stack course. It was created as a practical application to consolidate the concepts learned. <br/>
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">About the Projec</a>
+</p>
+
+<br>
+
+![imagem-da-pagina-web](https://raw.githubusercontent.com/ruhancmendes/Pagina-de-receita/refs/heads/main/img/img-readme.png)
+
+## 🛠️ Technologies
+
+This project was developed using the following tools and technologies:
+
+- HTML and CSS for structure and styling.
+- Git and GitHub for version control and sharing.
+- Figma for design and prototyping.
+
+## 📄 About the Project
+The goal of this project was to create a simple web page, applying the fundamentals of HTML and CSS. The focus was on:
+
+- Structuring content with semantic HTML.
+- Styling the page using CSS.

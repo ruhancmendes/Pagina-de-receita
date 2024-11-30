@@ -11,7 +11,7 @@ Este projeto faz parte dos estudos sobre os fundamentos de HTML e CSS no curso F
 
 <br>
 
-![http://url/to/img.png](https://raw.githubusercontent.com/ruhancmendes/Pagina-de-receita/refs/heads/main/img/img-readme.png)
+![imagem-da-pagina-web](https://raw.githubusercontent.com/ruhancmendes/Pagina-de-receita/refs/heads/main/img/img-readme.png)
 
 ## 🛠️ Tecnologias
 
